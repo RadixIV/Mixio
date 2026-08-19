@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Mixio</title>
+        <item>
+            <title>0.1.3</title>
+            <pubDate>Wed, 19 Aug 2026 18:37:22 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/RadixIV/Mixio/releases/latest/download/Mixio-0.1.3.dmg" length="3115490" type="application/octet-stream" sparkle:edSignature="u2BZmF7mYMj2gLAjR1HK9VjWvVIoXz3eO7Av/JJwyvhV2e8cG20z+uG8cY6vUYni8bn7zXjPPv9sM16fh+YPAA=="/>
+        </item>
+    </channel>
+</rss>
