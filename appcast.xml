@@ -3,6 +3,20 @@
     <channel>
         <title>Mixio</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Wed, 19 Aug 2026 20:32:30 +0900</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>0.1.4</h2>
+<ul>
+  <li>타겟 변경</li>
+  <li>코드 최적화</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/RadixIV/Mixio/releases/latest/download/Mixio-0.1.4.dmg" length="3105143" type="application/octet-stream" sparkle:edSignature="jjkJfITRYhuv2E0b2U8FlN5x9nWdeBwNE5wzbPG81fqw4xTs3lmibUbs9qWzOXf4J28kyxD63TTyiT/RiBEIAA=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Wed, 19 Aug 2026 18:37:22 +0900</pubDate>
             <sparkle:version>4</sparkle:version>
